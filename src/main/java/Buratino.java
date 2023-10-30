@@ -1,6 +1,5 @@
-public class Main {
+public class Buratino {
     public static void main(String[] args) {
-
         final int applesBuratino = 23;
         System.out.println("Количество яблок у Буратино - " + applesBuratino);
 
